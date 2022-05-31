@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebRTC Server Modulee</string>
+    <string name="accessibility_service_description">Accessibility Permission is needed in order to simulate gestures</string>
+</resources>
